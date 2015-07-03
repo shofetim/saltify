@@ -1,0 +1,7 @@
+file_roots:
+  base:
+    - /home/ubuntu/src/saltify/states
+
+pillar_roots:
+  base:
+    - /home/ubuntu/src/saltify/pillar
